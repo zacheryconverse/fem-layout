@@ -37,6 +37,7 @@ div img {
     display: table;
     clear:both;
 }
+
 [class*='col-'] {
 	width: 92%;
 	margin-left: 4%;
@@ -76,8 +77,8 @@ div img {
 	.col-4 {
 		width: 92%;
 	}
-
 }
+
 /* Desktop screen Sizes */
 @media only screen and (min-width: 768px) {
 	.col-1-2,
